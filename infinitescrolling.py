@@ -20,23 +20,3 @@ while True:
     else:
         last_height = new_height
 driver.quit()
-
-
-
-
-
-
-# user_name = driver.find_element('//input[@autocomplete="username")]')
-#
-# user_name.send_keys("AlokSin81488774")
-# next = driver.find_element(By.XPATH, '//div[@role="button"]//span[text()="Next"]]')
-# next.click()
-# time.sleep(2)
-# password = driver.find_element(By.XPATH, '//input[@autocomplete ="current-password"]')
-# password.send_keys("Alok1503@")
-# login = driver.find_element(By.XPATH, '//div[@role="button"]//span[text()="Log in"]')
-# login.click()
-# time.sleep(2)
-
-#
-# //div[@role="button"]
